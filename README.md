@@ -22,12 +22,12 @@ I love taking on challenging projects that push my limits and expand my technolo
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam-2707&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam-2707&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalreddy16&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwalreddy16&theme=radical" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-2707&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
