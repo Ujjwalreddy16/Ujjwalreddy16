@@ -33,7 +33,8 @@ I love taking on challenging projects that push my limits and expand my technolo
 
 ## 📌 Featured Projects
 
-🔹 [**Pothole Detection**](https://github.com/Ujjwalreddy16/Pothole_detection) – AI-powered road safety system (Python)   
+🔹 [**Pothole Detection**](https://github.com/Ujjwalreddy16/Pothole_detection) – AI-powered road safety system (Python)
+🔹 [**Traffic violation detection**](https://github.com/Ujjwalreddy16/Traffic-violation-detection) - AI-powered traffic control system used to detect signal violation(Python)
 
 ---
 
@@ -47,7 +48,7 @@ I love taking on challenging projects that push my limits and expand my technolo
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=sam-2707&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ujjwalreddy16&label=Profile%20Views&color=blue&style=flat)
 
 
 - ⚡ Fun fact: ...
