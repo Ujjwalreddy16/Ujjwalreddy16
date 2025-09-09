@@ -1,4 +1,4 @@
-                                                                       # 👋 Hi, I'm Ujjwal Reddy
+ # 👋 Hi, I'm Ujjwal Reddy
 
 🙋‍♂️ **About Me**  
 I’m a passionate **AI/ML Engineer** from Bengaluru, dedicated to building scalable and impactful digital solutions.  
