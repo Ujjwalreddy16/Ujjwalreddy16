@@ -48,7 +48,7 @@ I love taking on challenging projects that push my limits and expand my technolo
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Ujjwal's Top Languages"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwalreddy16&theme=github-dark-purple&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwalreddy16&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalreddy16&theme=github-dark&hide_border=true&line=3399FF&point=FFFFFF&area=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
 
