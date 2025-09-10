@@ -25,14 +25,17 @@ I love taking on challenging projects that push my limits and expand my technolo
 
 ## 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalreddy16&show_icons=true&theme=radical" height="200" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwalreddy16&theme=radical" height="200" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=radical" height="200" />
-</p>
+<div align="center">
 
-![Ujjwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalreddy16&theme=react-dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalreddy16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sam's GitHub Stats"/>
 
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Sam's Top Languages"/>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwalreddy16&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalreddy16&theme=github-dark&hide_border=true&line=3399FF&point=FFFFFF&area=true&bg_color=0d1117" alt="GitHub Activity Graph"/>
+
+</div>
 ---
 
 ## 📌 Featured Projects
