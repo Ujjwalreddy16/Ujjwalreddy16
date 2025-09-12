@@ -4,9 +4,9 @@
 I’m a passionate **AI/ML Engineer** from Bengaluru, dedicated to building scalable and impactful digital solutions.  
 I love taking on challenging projects that push my limits and expand my technological horizons.  
 
-- 🚀 Currently working on **Assistive Eye-Gaze Cursor Control**  
-- 🌱 Deep-diving into **PyTorch, TensorFlow, , API's and Web scrapping**  
-- 💡 Open for collaborations on **Open Source Projects (DevOps Automation)**  
+-  Currently working on **Assistive Eye-Gaze Cursor Control**  
+-  Deep-diving into **PyTorch, TensorFlow, , API's and Web scrapping**  
+-  Open for collaborations on **Open Source Projects (DevOps Automation)**  
 
 ---
 
