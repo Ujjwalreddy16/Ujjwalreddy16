@@ -90,9 +90,18 @@
 
 ### 📊 GitHub Stats
 
+<!--
+  The two cards below use YOUR OWN github-readme-stats instance for reliability.
+  Deploy one (5 min, free): fork github.com/anuraghazra/github-readme-stats,
+  import the fork into Vercel, add env var PAT_1 = a GitHub personal access token.
+  Then replace GRS-HOST below with your-project.vercel.app
+  (Prefer zero setup? Delete this block and the two <img> lines under it —
+   the streak card alone still looks good.)
+-->
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwalreddy16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ujjwal's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://GRS-HOST/api?username=Ujjwalreddy16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ujjwal's GitHub stats" />
+  <img height="165" src="https://GRS-HOST/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
