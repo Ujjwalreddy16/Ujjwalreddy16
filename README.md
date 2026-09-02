@@ -16,7 +16,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🧠 **AI/ML Engineer @ Tvara** — building LLM-powered and agentic products: RAG and knowledge-bank pipelines, embeddings, vector search, and Node.js/PostgreSQL backends.
+- 🧠 **AI/ML Engineer** — building LLM-powered and agentic products: RAG and knowledge-bank pipelines, embeddings, vector search, and Node.js/PostgreSQL backends.
 - 🎓 Final-year **B.Tech in AI &amp; ML Engineering** in Bengaluru (2022–2026).
 - 📄 Published author — **IEEE** (assistive gaze &amp; blink interface) and **IJIRT 2025** (genetic-algorithm path planning).
 - 🔭 Currently building **EyeCommand** — webcam-only eye-gaze + blink cursor control for assistive computing.
