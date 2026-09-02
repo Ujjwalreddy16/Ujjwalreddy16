@@ -99,10 +99,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwalreddy16&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalreddy16&theme=github-dark&hide_border=true&line=3399FF&point=FFFFFF&area=true&bg_color=0d1117" alt="Contribution graph" />
-</div>
-
 ---
 
 ### 🌐 Connect
