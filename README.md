@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://ujjwalreddy16.github.io/portfolio/">Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/ujjwal-reddy16/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:ujjwalreddy07@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ujjwalreddy07@gmail.com">Email</a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Ujjwalreddy16&label=Profile%20views&color=3399ff&style=flat" alt="Profile views" />
 </p>
@@ -16,7 +16,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🧠 **AI/ML Engineer** — building LLM-powered and agentic products: RAG and knowledge-bank pipelines, embeddings, vector search, and Node.js/PostgreSQL backends.
+- 🧠 **AI/ML Engineer @ Tvara** — building LLM-powered and agentic products: RAG and knowledge-bank pipelines, embeddings, vector search, and Node.js/PostgreSQL backends.
 - 🎓 Final-year **B.Tech in AI &amp; ML Engineering** in Bengaluru (2022–2026).
 - 📄 Published author — **IEEE** (assistive gaze &amp; blink interface) and **IJIRT 2025** (genetic-algorithm path planning).
 - 🔭 Currently building **EyeCommand** — webcam-only eye-gaze + blink cursor control for assistive computing.
@@ -91,17 +91,16 @@
 ### 📊 GitHub Stats
 
 <!--
-  The two cards below use YOUR OWN github-readme-stats instance for reliability.
-  Deploy one (5 min, free): fork github.com/anuraghazra/github-readme-stats,
-  import the fork into Vercel, add env var PAT_1 = a GitHub personal access token.
-  Then replace GRS-HOST below with your-project.vercel.app
-  (Prefer zero setup? Delete this block and the two <img> lines under it —
-   the streak card alone still looks good.)
+  Note: the two cards below use the public github-readme-stats.vercel.app,
+  which is often rate-limited and can be slow or briefly blank. It normally
+  loads on github.com (GitHub caches images). For guaranteed uptime, deploy
+  your own: fork github.com/anuraghazra/github-readme-stats -> import to
+  Vercel -> add env var PAT_1 = a GitHub token, then swap the host below.
 -->
 
 <div align="center">
-  <img height="165" src="https://GRS-HOST/api?username=Ujjwalreddy16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ujjwal's GitHub stats" />
-  <img height="165" src="https://GRS-HOST/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwalreddy16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ujjwal's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalreddy16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -114,7 +113,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwal-reddy16/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ujjwalreddy07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ujjwalreddy07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://ujjwalreddy16.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-3399FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
