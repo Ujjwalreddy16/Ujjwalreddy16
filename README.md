@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Ujjwal Reddy 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer</b> · Agentic AI &amp; RAG · Computer Vision · High-Performance Systems
+  <a href="https://github.com/Ujjwalreddy16">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=7C5CFF&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer+%40+Tvara;Agentic+AI+%26+RAG+Systems;Computer+Vision+%7C+High-Performance+Systems;Published+IEEE+%26+IJIRT+Author" alt="AI/ML Engineer · Agentic AI & RAG · Computer Vision · High-Performance Systems" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://ujjwalreddy16.github.io/portfolio/">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://ujjwalreddy16.github.io/Portfolio/">Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/ujjwal-reddy16/">LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ujjwalreddy07@gmail.com">Email</a>
   &nbsp;
@@ -107,6 +109,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwalreddy16&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ujjwalreddy16&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwalreddy16/Ujjwalreddy16/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwalreddy16/Ujjwalreddy16/output/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Ujjwalreddy16/Ujjwalreddy16/output/snake.svg" />
+</picture>
+
 ---
 
 ### 🌐 Connect
@@ -114,7 +130,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwal-reddy16/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ujjwalreddy07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://ujjwalreddy16.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-3399FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ujjwalreddy16.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-3399FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center"><i>⚡ Fun fact: I'd rather ship something measured, reproducible, and deployable than a notebook that only runs once.</i></p>
