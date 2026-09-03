@@ -109,10 +109,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwalreddy16&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ujjwalreddy16&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
-</div>
-
 ---
 
 ### 🐍 Contribution Graph
